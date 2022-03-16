@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there, my name is Antonio Tamez 👋
+### Freelance full-stack engineer
 <!--
 **AntonioTamez/AntonioTamez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
