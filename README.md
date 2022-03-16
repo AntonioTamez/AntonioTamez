@@ -1,8 +1,8 @@
 # Hi there, my name is Antonio Tamez 👋
 ### Freelance full-stack engineer
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tameznl?style=social)](https://twitter.com/tameznl)
+![GitHub Followers](https://img.shields.io/github/followers/antoniotamez?style=social)
 
 <!--
 **AntonioTamez/AntonioTamez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
