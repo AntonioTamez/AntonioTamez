@@ -7,7 +7,7 @@
 
 
 ## Skills:
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=.NET&logoColor=white&labelColor=101010)]()
 
 <!--
 **AntonioTamez/AntonioTamez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
