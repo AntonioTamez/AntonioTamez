@@ -6,6 +6,6 @@
 | --------| -----------------|----------------|------------------------------|------------------------------|-----------------------------------|
 | 1       | 2025-01          |**To-Do App** | Aplicación para gestionar tareas. | [Ver Demo](https://antoniotamez.github.io/to-do/) | [GitHub](https://github.com/AntonioTamez/to-do) |
 
-### 📫 Contacto
+### 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/antonio-tamez-salinas-a2840873/)
-- [Correo Electrónico](mailto:antonio.tamez@hotmail.com)
+- [E-Mail](mailto:antonio.tamez@hotmail.com)
