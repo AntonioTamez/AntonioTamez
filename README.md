@@ -1,6 +1,6 @@
 # 👋 ¡Hi! my name is Antonio Tamez Salinas
 
-### 🚀 Proyectos destacados
+### 🚀 projects
 
 | #       | Year-Month       | Proyecto       | Descripción                  | Demo Live                    | Repositorio                       |
 | --------| -----------------|----------------|------------------------------|------------------------------|-----------------------------------|
