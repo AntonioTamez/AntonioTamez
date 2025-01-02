@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hi! my name is Antonio Tamez Salinas
 
 ### 🚀 Proyectos destacados
 
