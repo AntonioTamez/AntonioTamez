@@ -2,7 +2,7 @@
 
 ### 🚀 projects
 
-| #       | Year-Month       | Proyecto       | Descripción                  | Demo Live                    | Repositorio                       |
+| #       | Year-Month       | Project       | Description                  | Demo Live                    | Repository                       |
 | --------| -----------------|----------------|------------------------------|------------------------------|-----------------------------------|
 | 1       | 2025-01          |**To-Do App** | Aplicación para gestionar tareas. | [Ver Demo](https://antoniotamez.github.io/to-do/) | [GitHub](https://github.com/AntonioTamez/to-do) |
 
