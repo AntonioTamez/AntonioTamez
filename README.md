@@ -1,23 +1,11 @@
-# Hi there, my name is Antonio Tamez 👋
-### Freelance full-stack engineer
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tameznl?style=social)](https://twitter.com/tameznl)
-![GitHub Followers](https://img.shields.io/github/followers/antoniotamez?style=social)
+### 🚀 Proyectos destacados
 
+| #       | Year-Month       | Proyecto       | Descripción                  | Demo Live                    | Repositorio                       |
+| --------| -----------------|----------------|------------------------------|------------------------------|-----------------------------------|
+| 1       | 2025-01          |**To-Do App** | Aplicación para gestionar tareas. | [Ver Demo](https://antoniotamez.github.io/to-do/) | [GitHub](https://github.com/AntonioTamez/to-do) |
 
-
- 
-<!--
-**AntonioTamez/AntonioTamez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/antonio-tamez-salinas-a2840873/)
+- [Correo Electrónico](mailto:antonio.tamez@hotmail.com)
