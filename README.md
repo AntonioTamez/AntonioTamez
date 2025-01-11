@@ -1,12 +1,25 @@
-# 👋 ¡Hi! my name is Antonio Tamez Salinas
+# 👋 Hi! My name is Antonio Tamez Salinas
 
-### 🚀 projects
+I am a passionate full stack developer with a keen interest in building mobile and web applications. I love exploring new technologies and I am constantly learning to improve my skills. 
+Below you can find some of the projects I've worked on.
 
-| #       | Year-Month       | Project               | Description                       | Demo Live                                                  | Repository                                      |
-| --------| -----------------|-----------------------|-----------------------------------|------------------------------------------------------------|-----------------------------------              |
-| 1       | 2025-01          |**To-Do**              | App para gestionar tareas.        | [Ver Demo](https://antoniotamez.github.io/to-do/)          | [GitHub](https://github.com/AntonioTamez/to-do) |
-| 2       | 2025-01          |**currency-converter** | Conversor de monedas.             | [Ver Demo](https://scintillating-pika-8a9033.netlify.app/) | [GitHub](https://github.com/AntonioTamez/currency-converter)
-| 3       | 2025-01          |**meme-generator**     | Conversor de monedas.             | [Ver Demo](https://glistening-concha-916953.netlify.app/)  | [GitHub](https://github.com/AntonioTamez/meme-generator)
+### 🛠️ Technologies I work with
+- **Frontend**: Angular, Blazor, CSS, JavaScript, TypeScript
+- **Mobile**: Ionic, Flutter, React Native(Expo)
+- **Backend**: .Net, NestJS
+- **Databases**: SQL, SQLite, Postgress
+- **Other**: Git, GitHub, Docker, Netlify
+
+### 🚀 Projects
+
+| #   | Year-Month | Project               | Description                         | Tech Stack                             | Demo Live                                                   | Repository                  |
+| --- | ---------- | --------------------- | ----------------------------------- | -------------------------------------- | ----------------------------------------------------------- | --------------------------- |
+| 1   | 2025-01    | **To-Do**              | A task management app.             | JavaScript, CSS                 	  | [View Demo](https://antoniotamez.github.io/to-do/)          | [GitHub](https://github.com/AntonioTamez/to-do)   |
+| 2   | 2025-01    | **Currency Converter** | A currency conversion app.         | React, JavaScript, API integration     | [View Demo](https://scintillating-pika-8a9033.netlify.app/) | [GitHub](https://github.com/AntonioTamez/currency-converter) |
+| 3   | 2025-01    | **Meme Generator**     | A meme generator app.              | Angular, JavaScript, HTML, CSS         | [View Demo](https://glistening-concha-916953.netlify.app/)  | [GitHub](https://github.com/AntonioTamez/meme-generator) |
+
+### 💬 About Me
+I enjoy working on projects that challenge me and help me grow. I’m always open to learning new technologies and improving my skills. When I’m not coding, I like to spend time experimenting with new ideas and collaborating on open-source projects.
 
 ### 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/antonio-tamez-salinas-a2840873/)
