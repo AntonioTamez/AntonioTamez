@@ -6,8 +6,8 @@ Below you can find some of the projects I've worked on.
 ### 🛠️ Technologies I work with
 - **Frontend**: Angular, React, Blazor, CSS, JavaScript, TypeScript
 - **Mobile**: Ionic, Flutter, React Native(Expo)
-- **Backend**: .Net, NestJS
-- **Databases**: SQL, SQLite, Postgress
+- **Backend**: .Net, NestJS, Node, Express
+- **Databases**: SQL, SQLite, Postgress, MongoDB
 - **Other**: Git, GitHub, Docker, Netlify
 
 ### 🚀 Projects
